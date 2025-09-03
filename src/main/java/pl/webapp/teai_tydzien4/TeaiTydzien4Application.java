@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TeaiTydzien4Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TeaiTydzien4Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TeaiTydzien4Application.class, args);
+    }
 
 }

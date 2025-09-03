@@ -1,4 +1,4 @@
-package pl.webapp.teai_tydzien4.client;
+package pl.webapp.teai_tydzien4.Book;
 
 import com.fasterxml.jackson.annotation.*;
 

@@ -1,0 +1,14 @@
+.main-content {
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-top: 24px;
+    padding: 20px;
+}
+
+.card-title {
+    color: #1e88e5;
+}
+
+.card {
+    border-radius: 16px;
+}
